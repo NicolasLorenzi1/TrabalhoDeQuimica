@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 import javax.swing.JOptionPane;
 
-public class TrabalhoDeFisica {
+public class TrabalhoDeQuimica {
 
 private static final HashMap<String, Double> metais = new HashMap<>();
 
